@@ -2,7 +2,7 @@
 
 Aplicação Mobile desenvolvida durante NLW (Next Level Week) da Rocketseat que tem como objetivo ser a interface mobile de uma aplicação para guardar memórias (Texto, imagens, etc.) A interface consome API Rest também criada durante a semana.
 
-O sistema foi desenvolvido com o framework utilizando React Native com Typescript e Expo e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o coceito de manipulação de datas e autenticação do mobile com o back-end utilizando login com GitHub e token guardado no Secure Store, do Expo.
+O sistema foi desenvolvido com o framework utilizando React Native com Typescript e Expo e estilizado com a biblioteca TailwindCSS. Também foi trabalhado o conceito de manipulação de datas e autenticação do mobile com o back-end utilizando login com GitHub e token guardado no Secure Store, do Expo.
 
 ### Algumas imagens da interface mobile abaixo:
 
